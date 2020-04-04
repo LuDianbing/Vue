@@ -39,8 +39,6 @@ View -> [（Dispatch）Action  ] -> （Commit）Mutations -> （Mutate）state -
 ```shell
 # NPM
 $ npm install vuex
-# YARN 
-$ yarn add vuex
 ```
 
 在一个模块化的打包系统中，您必须显式地通过 `Vue.use()` 来安装 Vuex：
